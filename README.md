@@ -1,6 +1,8 @@
 # PuralaxGame-and-Solutions (2016)
 
-![Alt text](Images/puralax8.png?raw=true "Title")
+<p align="center">
+  <img src="Images/puralax8.png" />
+</p>
 
 This was a proyect about the Puralax game written in c++ using QT, and also implementing Backtracking and Branch and Bound to solve it
 
