@@ -9,7 +9,7 @@
 </p>
 
 This is a uni proyect where i had to implement the Puralax game in c++ using QT.
-Also utilizing the Backtracking and Branch and Bound algorithms i had to find a way to solve every level. 
+Also, utilizing the Backtracking and Branch and Bound algorithms, i had to find a way to solve every level. 
 
 -----------------------------------
 <p align="center">
